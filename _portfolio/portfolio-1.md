@@ -16,3 +16,5 @@ Voice interaction or commands “Hey Google”, or “Hey Siri” rely on keywor
 
 **Approach**
 To design, build and deploy a lightweight Keyword spotting ML model (CNN, SVM) and exposed as a mobile-application that can process a “custom wake word”. Voice response with results by respecting local device resource constraints (low compute) and adhering to ethical challenges (Privacy respecting and non-eavesdropping)
+
+🧑‍💻 [Github Link](https://github.com/MonuSingh16/custom-wakeword)
