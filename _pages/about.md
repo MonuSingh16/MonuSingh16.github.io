@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A experienced machine learning engineer in implementing machine learning techniques, and frameworks (Scikit-learn, TensorFlow, PyTorch); Hands-on experience in building, and deploying ML Apps
+
+A experienced machine learning engineer in implementing machine learning techniques, and frameworks (Scikit-learn, TensorFlow, PyTorch); Hands-on experience in building, and deploying machine learning applications
 
 🌍 I'm based in Bangalore, India
+
 🤝 I'm open to collaborating on ML Projects, Kaggle Competitions, Consultancy
+
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 ## 👨🏻‍🔬 Professional Experience
@@ -27,4 +30,5 @@ To further contribute to the Machine Learning community, I have decided to write
 Linear Regression, Logistic Regression, KNN, K-Mean, DTs, Gradient Boosted Trees; XGBoost; A/B Testing
 
 - **Deep Learning** - Framework - PyTorch; DNN, CNN, RNN; NLP - word2vec, Tokenizers, Attention Mechanism
+
 - **Machine Learning Operations** - MLFlow, Docker, FastAPI, Github Actions, Cloud - AWS
