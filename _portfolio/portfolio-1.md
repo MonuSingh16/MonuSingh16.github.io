@@ -1,6 +1,6 @@
 ---
 title: "Lightweight Custom Wake Words Project"
-excerpt: "To design, build and deploy a lightweight Keyword spotting ML model (CNN, SVM) and exposed as a mobile-application that can process a “custom wake word”<br/><img src='/images/500x300.png'>"
+excerpt: "To design, build and deploy a lightweight Keyword spotting ML model (CNN, SVM) and exposed as a mobile-application that can process a “custom wake word”<br/><img src='/images/Model Results.png'>"
 collection: portfolio
 ---
 
