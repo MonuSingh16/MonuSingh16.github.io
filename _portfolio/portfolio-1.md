@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Lightweight Custom Wake Words Project"
+excerpt: "To design, build and deploy a lightweight Keyword spotting ML model (CNN, SVM) and exposed as a mobile-application that can process a “custom wake word”<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Objective**
+Voice interaction or commands “Hey Google”, or “Hey Siri” rely on keyword spotting to start interaction on local device. It helps people experience “Hands-free” searching and task completion
+
+**What & Why - Challenges in above technology**
+- Triggers on negative wake words, unrelated speech, background noise, or silence
+- High no. of instance, when device does not trigger on positive wake words
+- Need for quick response & acknowledgment
+- Ability to customise wake word
+- Wake model to be lightweight & energy efficient
+
+**Approach**
+To design, build and deploy a lightweight Keyword spotting ML model (CNN, SVM) and exposed as a mobile-application that can process a “custom wake word”. Voice response with results by respecting local device resource constraints (low compute) and adhering to ethical challenges (Privacy respecting and non-eavesdropping)
